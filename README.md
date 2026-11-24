@@ -1,4 +1,4 @@
-# Kubernetes Practical Experiment: Resource Allocation, Scheduling & Load Balancing
+# Kubernetes Resource Allocation Scheduling Load Balancing
 
 **Analyze Resource Allocation, Scheduling, and Load Balancing in a Three-Node Cluster**
 
